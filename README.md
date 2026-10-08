@@ -1,1 +1,0 @@
-# Case-Liga-de-Intelig-ncia-Artificial-da-UFSCar
