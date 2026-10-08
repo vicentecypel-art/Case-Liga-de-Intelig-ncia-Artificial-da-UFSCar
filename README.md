@@ -16,7 +16,7 @@ O painel consolida em tempo real as métricas fundamentais dos três pilares da 
 
 | Indicador | Área Responsável | Valor | Detalhamento & Racionalidade |
 | :--- | :--- | :---: | :--- |
-| **Taxa de Alocação da Equipe** | **Operações** | **33%** | 2 de 6 membros alocados com exclusividade no piloto da Senda Patrimonial por 4 semanas, resguardando 67% de capacidade livre para formações e estudos. |
+| **Taxa de Alocação da Equipe** | **Operações** | **50%** | 2 de 6 membros alocados com exclusividade no piloto da Senda Patrimonial por 4 semanas + 1 membro alocado para a operação da Meridian. |
 | **Taxa de Conversão do Funil** | **Growth** | **50%** | 3 de 6 empresas selecionadas com engajamento ativo: **Senda** (Piloto), **Meridian** (Workshop) e **Brava** (Capacitação de alto nível). |
 | **Índice de Resposta aos Prazos** | **Relações Institucionais** | **100%** | Cumprimento integral dos prazos de resposta mais urgentes (**Meridian até 01/10** e **Senda até 02/10**). SLA impecável. |
 
